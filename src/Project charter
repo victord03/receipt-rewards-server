@@ -1,0 +1,118 @@
+App short description:
+The app will be accepting images of receipts that the user will be sending over, scan the information to ensure image
+clarity and usefulness of the content on the receipt, and when the content is deemed satisfactory, award the user with
+a tiny sum of money for each receipt.
+
+Quality assurance:
+The data must contain information such as product bought, quantity, price, company (seller), geographical location,
+along with user data such as age and sex which will be provided via the user account during the account creation.
+
+Business case:
+The business model is that the user is getting paid by our startup company for images of receipts, which in turn is
+sold to data processors as consumer data information or market trends. The incentive for the user will be to submit a
+large number of receipts which can amount to a decent total sum, while for the company will be to understand the types
+of data that are attractive to data processor companies.
+
+Business need:
+
+Types of customer data (https://www.nutshell.com/blog/types-of-customer-data):
+
+    1) Basic data
+        Basic, or identity data, is just that—it’s the basic information you gather from customers that identifies them
+        as unique individuals.
+
+        Basic customer data includes a customer’s:
+
+            - Name
+            - Postal and email address
+            - Gender identity
+            - Phone number
+            - Age and birthday
+            - Race and ethnicity
+
+        Other types of basic customer data include things like a customer’s work industry and occupation, income,
+        IP address, and social media handles.
+
+        Basic customer data is useful for businesses and marketers because it helps to create buyer personas and get a
+        clearer picture of the demographics your business is appealing to.
+
+    2) Interaction data
+        Interaction, or engagement data, refers to data related to how your customers interact with your business
+        across various touchpoints. Rather than looking at your audience members individually, engagement data looks
+        at your audience as a whole.
+
+        Customer engagement and interaction data comes in the form of:
+
+            - Website visits
+            - Click-through rates (CTR)
+            - Bounce rates
+            - Conversions
+            - Ad engagement, like reach, clicks, and interactions
+            - Social media posts and video engagement, including likes, comments, and shares
+            - Email engagement, like clicks, forwards, and bounce rates
+
+        This data also comes from product or service information like customer purchasing habits and overall popularity.
+
+        Customer interaction data is important for understanding the attitudes and habits of your target audience.
+        With it, you can create well-informed marketing campaigns that better appeal to your audience.
+
+    3) Behavioral data
+        Behavioral customer data is similar to customer interaction data but a little more defined. Behavioral data
+        looks at a customer’s direct engagement with your business. Depending on the industry you’re in, interaction
+        and behavioral data can sometimes be combined.
+
+        Behavioral customer data includes:
+
+            - Purchase history
+            - Abandoned shopping carts
+            - Subscription renewals and cancellations
+            - Product order values
+            - User duration on your site
+            - Heat maps for mouse movement data like clicks and scrolling
+
+    4) Attitudinal data
+        Last but not least is attitudinal data. Attitudinal data is comprised of first-hand opinions from customers on
+        your business, services, and products. Unlike the previous three types of customer data, attitudinal data is a
+        bit harder to process.
+
+        Basic, interaction, and behavioral data include hard numbers that can’t really be disputed—these data points
+        are clearly stated for you to interpret. Attitudinal data, on the other hand, is a bit different.
+
+        Rather than numbers, attitudinal data consists of:
+
+            - Customer and client reviews
+            - Online survey responses
+            - In-person interactions with customers
+            - Word-of-mouth reviews
+            - Attitudinal data is a bit trickier to process because not every review is written the same. Some
+            customers may be extremely detailed with their reviews and survey responses, while others keep it short
+            and to the point.
+
+        As a business owner, marketer, or customer service representative, it’s your job to extract the important
+        information from these customer reviews and feedback responses and turn them into valuable, actionable data.
+
+How different types of data can be collected
+
+    1) Basic data
+        - Data forms
+
+    2) Interaction data
+        - Website's analytics page
+        - Paid marketing social media campaigns
+
+    3) Behavioral data
+        - Website
+        - Email subscriptions
+        - General sales funnel
+
+    4) Attitudinal data
+        - Surveys
+        - Feedback forms
+        - Extract data directly from business operations
+
+
+How are companies collecting customer data (https://www.businessnewsdaily.com/10625-businesses-collecting-data.html):
+
+Customer data can be collected in three ways: by directly asking customers, by indirectly tracking customers, and by
+appending other sources of customer data to your own.
+
