@@ -116,3 +116,16 @@ How are companies collecting customer data (https://www.businessnewsdaily.com/10
 Customer data can be collected in three ways: by directly asking customers, by indirectly tracking customers, and by
 appending other sources of customer data to your own.
 
+
+Further research
+    - Text analysis of an image (discover & test libs)
+    - Determine if the content of the photo is a receipt
+    - Study data brokers / data providers (competitors)
+
+Possible pipeline for photo recognition
+    - Determine photo clarity
+    - Crop photo
+    - Analyse content
+
+Look up
+    - kaggle.com
