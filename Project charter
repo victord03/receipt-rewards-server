@@ -118,9 +118,18 @@ appending other sources of customer data to your own.
 
 
 Further research
-    - Text analysis of an image (discover & test libs)
+    - Text analysis of an image (Optical Character Recognition)
+        https://www.educative.io/answers/how-to-extract-text-from-an-image-in-python
+
+        libs
+            pytesseract
+            pillow
+
+            pytesseract requires a separate installation of the Tesseract OCR Engine. "brew install tesseract"
+
     - Determine if the content of the photo is a receipt
     - Study data brokers / data providers (competitors)
+    - Study existing implementations of the same app
 
 Possible pipeline for photo recognition
     - Determine photo clarity

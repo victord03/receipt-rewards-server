@@ -6,6 +6,7 @@ __pycache__/
 # Manually added by me
 /.idea
 *.pyc
+image_sample.jpg
 
 # C extensions
 *.so

@@ -25,9 +25,16 @@ bulk.
 
 """
 
+import pytesseract
+from PIL import Image
+
 
 def main():
-    ...
+
+    file_name = 'image_sample.jpg'
+    image = Image.open(file_name)
+    text = pytesseract.image_to_string(image)
+    print(text)
 
 
 if __name__ == '__main__':
