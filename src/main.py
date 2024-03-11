@@ -31,7 +31,7 @@ from PIL import Image
 
 def main():
 
-    file_name = 'image_sample.jpg'
+    file_name = 'image_sample2.jpg'
     image = Image.open(file_name)
     text = pytesseract.image_to_string(image)
     print(text)

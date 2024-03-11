@@ -7,6 +7,8 @@ __pycache__/
 /.idea
 *.pyc
 image_sample.jpg
+image_sample2.jpg
+image_sample3.jpg
 
 # C extensions
 *.so
