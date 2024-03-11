@@ -27,14 +27,24 @@ bulk.
 
 import pytesseract
 from PIL import Image
+import cv2
 
 
 def main():
 
-    file_name = 'image_sample2.jpg'
-    image = Image.open(file_name)
-    text = pytesseract.image_to_string(image)
-    print(text)
+    file_name = 'image_sample3.jpg'
+
+    # using pillow
+    pillow_image = Image.open(file_name)
+    # data = pytesseract.image_to_data(pillow_image, timeout=10)
+    text = pytesseract.image_to_string(pillow_image, timeout=10)
+    print('-' * 45, '\nPILLOW lib\n\n', text)
+
+    # using opencv
+    cv_image = cv2.imread(file_name)
+    gray = cv2.cvtColor(cv_image, cv2.COLOR_BGR2GRAY)
+    text = pytesseract.image_to_string(gray)
+    print('-' * 45, '\nOPENCV lib\n\n', text)
 
 
 if __name__ == '__main__':
