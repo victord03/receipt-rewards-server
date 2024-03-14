@@ -9,6 +9,8 @@ __pycache__/
 image_sample.jpg
 image_sample2.jpg
 image_sample3.jpg
+frozen_east_text_detection.pb
+recognized.txt
 
 # C extensions
 *.so
