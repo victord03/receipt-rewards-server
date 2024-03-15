@@ -1,7 +1,6 @@
 import numpy as np
 from PIL import Image
 
-
 import pytesseract
 import cv2
 
@@ -24,8 +23,8 @@ def main():
     # Performing OTSU threshold
     ret, thresh1 = cv2.threshold(gray, 0, 255, cv2.THRESH_OTSU | cv2.THRESH_BINARY_INV)
 
-    # Specify structure shape and kernel size.
-    # Kernel size increases or decreases the area
+    # Spsize
+    # Kernel size increases or decreaecify structure shape and kernel ses the area
     # of the rectangle to be detected.
     # A smaller value like (10, 10) will detect
     # each word instead of a sentence.
